@@ -1,0 +1,51 @@
+html{
+  background-color: black;
+}
+#Fig1{
+  width: 200px
+}
+#Fig2{
+  width: 200px
+}
+#Fig3{
+  width: 200px
+}
+#Fig4{
+  width: 200px
+}
+#FigMain{
+  width: 80%
+}
+#grid{
+  display: inline-block
+}
+#main_button{
+  background-color: rgb(61, 129, 120);
+  padding: 5px;
+  color: azure;
+
+}
+#footer{
+  color: azure
+}
+#dropdown_{
+  color: black;
+  background-color: aliceblue;
+  border: 10px;
+}
+#navbarNavAltMarkup{
+  color: black;
+  background-color: aliceblue;
+  border: 10px;
+}
+#comparison{
+  width: 400px
+
+}
+#dropdown_ {
+  width: 100px !important;
+}
+#FigDisplay{
+    width: 200px;
+    border-style: dotted;
+  }
